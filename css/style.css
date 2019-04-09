@@ -1,1 +1,9 @@
-# Empty CSS file for your own CSS
+
+td > input{
+    display: inline !important;
+    width: 50px  !important;
+}
+
+th{
+    text-align: center;
+}
